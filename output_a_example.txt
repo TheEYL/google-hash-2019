@@ -1,6 +1,6 @@
 Submission file						-----						 Description
 3						-----						This submission has 3 slides
 0						-----						Slide number 0  contains photo 0 
-3						-----						Slide number 1  contains photo 3 
-[1, 2]						-----						Slide number 2  contains photo [1, 2] 
-Score:						2
+[2, 1]						-----						Slide number 1  contains photo [2, 1] 
+3						-----						Slide number 2  contains photo 3 
+Score:						1

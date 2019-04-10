@@ -1,0 +1,753 @@
+Submission file						-----						 Description
+750						-----						This submission has 750 slides
+605						-----						Slide number 0  contains photo 605 
+[46, 101]						-----						Slide number 1  contains photo [46, 101] 
+[624, 200]						-----						Slide number 2  contains photo [624, 200] 
+[27, 982]						-----						Slide number 3  contains photo [27, 982] 
+205						-----						Slide number 4  contains photo 205 
+850						-----						Slide number 5  contains photo 850 
+[632, 773]						-----						Slide number 6  contains photo [632, 773] 
+326						-----						Slide number 7  contains photo 326 
+[244, 806]						-----						Slide number 8  contains photo [244, 806] 
+220						-----						Slide number 9  contains photo 220 
+[774, 243]						-----						Slide number 10  contains photo [774, 243] 
+712						-----						Slide number 11  contains photo 712 
+245						-----						Slide number 12  contains photo 245 
+649						-----						Slide number 13  contains photo 649 
+779						-----						Slide number 14  contains photo 779 
+621						-----						Slide number 15  contains photo 621 
+[527, 482]						-----						Slide number 16  contains photo [527, 482] 
+829						-----						Slide number 17  contains photo 829 
+741						-----						Slide number 18  contains photo 741 
+[155, 341]						-----						Slide number 19  contains photo [155, 341] 
+33						-----						Slide number 20  contains photo 33 
+559						-----						Slide number 21  contains photo 559 
+[988, 668]						-----						Slide number 22  contains photo [988, 668] 
+536						-----						Slide number 23  contains photo 536 
+[96, 172]						-----						Slide number 24  contains photo [96, 172] 
+851						-----						Slide number 25  contains photo 851 
+[105, 813]						-----						Slide number 26  contains photo [105, 813] 
+261						-----						Slide number 27  contains photo 261 
+4						-----						Slide number 28  contains photo 4 
+821						-----						Slide number 29  contains photo 821 
+855						-----						Slide number 30  contains photo 855 
+309						-----						Slide number 31  contains photo 309 
+504						-----						Slide number 32  contains photo 504 
+[853, 108]						-----						Slide number 33  contains photo [853, 108] 
+[158, 413]						-----						Slide number 34  contains photo [158, 413] 
+[595, 625]						-----						Slide number 35  contains photo [595, 625] 
+83						-----						Slide number 36  contains photo 83 
+[459, 129]						-----						Slide number 37  contains photo [459, 129] 
+[2, 628]						-----						Slide number 38  contains photo [2, 628] 
+724						-----						Slide number 39  contains photo 724 
+509						-----						Slide number 40  contains photo 509 
+845						-----						Slide number 41  contains photo 845 
+380						-----						Slide number 42  contains photo 380 
+[151, 388]						-----						Slide number 43  contains photo [151, 388] 
+767						-----						Slide number 44  contains photo 767 
+[221, 80]						-----						Slide number 45  contains photo [221, 80] 
+648						-----						Slide number 46  contains photo 648 
+852						-----						Slide number 47  contains photo 852 
+812						-----						Slide number 48  contains photo 812 
+754						-----						Slide number 49  contains photo 754 
+145						-----						Slide number 50  contains photo 145 
+667						-----						Slide number 51  contains photo 667 
+260						-----						Slide number 52  contains photo 260 
+391						-----						Slide number 53  contains photo 391 
+396						-----						Slide number 54  contains photo 396 
+[528, 427]						-----						Slide number 55  contains photo [528, 427] 
+672						-----						Slide number 56  contains photo 672 
+441						-----						Slide number 57  contains photo 441 
+87						-----						Slide number 58  contains photo 87 
+771						-----						Slide number 59  contains photo 771 
+888						-----						Slide number 60  contains photo 888 
+[470, 897]						-----						Slide number 61  contains photo [470, 897] 
+[960, 788]						-----						Slide number 62  contains photo [960, 788] 
+106						-----						Slide number 63  contains photo 106 
+955						-----						Slide number 64  contains photo 955 
+570						-----						Slide number 65  contains photo 570 
+743						-----						Slide number 66  contains photo 743 
+560						-----						Slide number 67  contains photo 560 
+[918, 67]						-----						Slide number 68  contains photo [918, 67] 
+90						-----						Slide number 69  contains photo 90 
+358						-----						Slide number 70  contains photo 358 
+591						-----						Slide number 71  contains photo 591 
+98						-----						Slide number 72  contains photo 98 
+317						-----						Slide number 73  contains photo 317 
+232						-----						Slide number 74  contains photo 232 
+[585, 390]						-----						Slide number 75  contains photo [585, 390] 
+225						-----						Slide number 76  contains photo 225 
+950						-----						Slide number 77  contains photo 950 
+142						-----						Slide number 78  contains photo 142 
+42						-----						Slide number 79  contains photo 42 
+279						-----						Slide number 80  contains photo 279 
+254						-----						Slide number 81  contains photo 254 
+347						-----						Slide number 82  contains photo 347 
+303						-----						Slide number 83  contains photo 303 
+[95, 365]						-----						Slide number 84  contains photo [95, 365] 
+267						-----						Slide number 85  contains photo 267 
+334						-----						Slide number 86  contains photo 334 
+[79, 981]						-----						Slide number 87  contains photo [79, 981] 
+[721, 386]						-----						Slide number 88  contains photo [721, 386] 
+[248, 64]						-----						Slide number 89  contains photo [248, 64] 
+677						-----						Slide number 90  contains photo 677 
+293						-----						Slide number 91  contains photo 293 
+431						-----						Slide number 92  contains photo 431 
+460						-----						Slide number 93  contains photo 460 
+[800, 188]						-----						Slide number 94  contains photo [800, 188] 
+141						-----						Slide number 95  contains photo 141 
+742						-----						Slide number 96  contains photo 742 
+[548, 424]						-----						Slide number 97  contains photo [548, 424] 
+463						-----						Slide number 98  contains photo 463 
+283						-----						Slide number 99  contains photo 283 
+597						-----						Slide number 100  contains photo 597 
+74						-----						Slide number 101  contains photo 74 
+[789, 990]						-----						Slide number 102  contains photo [789, 990] 
+[40, 635]						-----						Slide number 103  contains photo [40, 635] 
+[359, 894]						-----						Slide number 104  contains photo [359, 894] 
+[545, 338]						-----						Slide number 105  contains photo [545, 338] 
+[234, 156]						-----						Slide number 106  contains photo [234, 156] 
+[608, 383]						-----						Slide number 107  contains photo [608, 383] 
+179						-----						Slide number 108  contains photo 179 
+713						-----						Slide number 109  contains photo 713 
+508						-----						Slide number 110  contains photo 508 
+[484, 401]						-----						Slide number 111  contains photo [484, 401] 
+550						-----						Slide number 112  contains photo 550 
+803						-----						Slide number 113  contains photo 803 
+19						-----						Slide number 114  contains photo 19 
+430						-----						Slide number 115  contains photo 430 
+320						-----						Slide number 116  contains photo 320 
+691						-----						Slide number 117  contains photo 691 
+[385, 703]						-----						Slide number 118  contains photo [385, 703] 
+56						-----						Slide number 119  contains photo 56 
+997						-----						Slide number 120  contains photo 997 
+567						-----						Slide number 121  contains photo 567 
+92						-----						Slide number 122  contains photo 92 
+412						-----						Slide number 123  contains photo 412 
+240						-----						Slide number 124  contains photo 240 
+[331, 144]						-----						Slide number 125  contains photo [331, 144] 
+103						-----						Slide number 126  contains photo 103 
+948						-----						Slide number 127  contains photo 948 
+258						-----						Slide number 128  contains photo 258 
+[932, 910]						-----						Slide number 129  contains photo [932, 910] 
+[937, 119]						-----						Slide number 130  contains photo [937, 119] 
+[991, 598]						-----						Slide number 131  contains photo [991, 598] 
+[517, 529]						-----						Slide number 132  contains photo [517, 529] 
+181						-----						Slide number 133  contains photo 181 
+28						-----						Slide number 134  contains photo 28 
+472						-----						Slide number 135  contains photo 472 
+725						-----						Slide number 136  contains photo 725 
+526						-----						Slide number 137  contains photo 526 
+944						-----						Slide number 138  contains photo 944 
+[717, 511]						-----						Slide number 139  contains photo [717, 511] 
+135						-----						Slide number 140  contains photo 135 
+[841, 798]						-----						Slide number 141  contains photo [841, 798] 
+844						-----						Slide number 142  contains photo 844 
+296						-----						Slide number 143  contains photo 296 
+[872, 961]						-----						Slide number 144  contains photo [872, 961] 
+[469, 763]						-----						Slide number 145  contains photo [469, 763] 
+[445, 195]						-----						Slide number 146  contains photo [445, 195] 
+[686, 168]						-----						Slide number 147  contains photo [686, 168] 
+208						-----						Slide number 148  contains photo 208 
+555						-----						Slide number 149  contains photo 555 
+[945, 587]						-----						Slide number 150  contains photo [945, 587] 
+906						-----						Slide number 151  contains photo 906 
+[881, 405]						-----						Slide number 152  contains photo [881, 405] 
+[537, 355]						-----						Slide number 153  contains photo [537, 355] 
+352						-----						Slide number 154  contains photo 352 
+411						-----						Slide number 155  contains photo 411 
+692						-----						Slide number 156  contains photo 692 
+[150, 31]						-----						Slide number 157  contains photo [150, 31] 
+[372, 490]						-----						Slide number 158  contains photo [372, 490] 
+848						-----						Slide number 159  contains photo 848 
+[943, 20]						-----						Slide number 160  contains photo [943, 20] 
+[59, 481]						-----						Slide number 161  contains photo [59, 481] 
+136						-----						Slide number 162  contains photo 136 
+[414, 163]						-----						Slide number 163  contains photo [414, 163] 
+[577, 118]						-----						Slide number 164  contains photo [577, 118] 
+900						-----						Slide number 165  contains photo 900 
+493						-----						Slide number 166  contains photo 493 
+233						-----						Slide number 167  contains photo 233 
+184						-----						Slide number 168  contains photo 184 
+594						-----						Slide number 169  contains photo 594 
+[288, 466]						-----						Slide number 170  contains photo [288, 466] 
+[182, 44]						-----						Slide number 171  contains photo [182, 44] 
+113						-----						Slide number 172  contains photo 113 
+186						-----						Slide number 173  contains photo 186 
+[793, 183]						-----						Slide number 174  contains photo [793, 183] 
+421						-----						Slide number 175  contains photo 421 
+[701, 444]						-----						Slide number 176  contains photo [701, 444] 
+925						-----						Slide number 177  contains photo 925 
+746						-----						Slide number 178  contains photo 746 
+[18, 304]						-----						Slide number 179  contains photo [18, 304] 
+890						-----						Slide number 180  contains photo 890 
+611						-----						Slide number 181  contains photo 611 
+[496, 223]						-----						Slide number 182  contains photo [496, 223] 
+177						-----						Slide number 183  contains photo 177 
+809						-----						Slide number 184  contains photo 809 
+[49, 263]						-----						Slide number 185  contains photo [49, 263] 
+202						-----						Slide number 186  contains photo 202 
+[57, 366]						-----						Slide number 187  contains photo [57, 366] 
+[523, 620]						-----						Slide number 188  contains photo [523, 620] 
+[66, 327]						-----						Slide number 189  contains photo [66, 327] 
+453						-----						Slide number 190  contains photo 453 
+125						-----						Slide number 191  contains photo 125 
+[375, 949]						-----						Slide number 192  contains photo [375, 949] 
+311						-----						Slide number 193  contains photo 311 
+121						-----						Slide number 194  contains photo 121 
+34						-----						Slide number 195  contains photo 34 
+914						-----						Slide number 196  contains photo 914 
+707						-----						Slide number 197  contains photo 707 
+167						-----						Slide number 198  contains photo 167 
+546						-----						Slide number 199  contains photo 546 
+440						-----						Slide number 200  contains photo 440 
+[190, 133]						-----						Slide number 201  contains photo [190, 133] 
+733						-----						Slide number 202  contains photo 733 
+369						-----						Slide number 203  contains photo 369 
+[552, 670]						-----						Slide number 204  contains photo [552, 670] 
+340						-----						Slide number 205  contains photo 340 
+107						-----						Slide number 206  contains photo 107 
+500						-----						Slide number 207  contains photo 500 
+[437, 835]						-----						Slide number 208  contains photo [437, 835] 
+397						-----						Slide number 209  contains photo 397 
+[883, 153]						-----						Slide number 210  contains photo [883, 153] 
+[879, 68]						-----						Slide number 211  contains photo [879, 68] 
+569						-----						Slide number 212  contains photo 569 
+[558, 54]						-----						Slide number 213  contains photo [558, 54] 
+933						-----						Slide number 214  contains photo 933 
+122						-----						Slide number 215  contains photo 122 
+669						-----						Slide number 216  contains photo 669 
+140						-----						Slide number 217  contains photo 140 
+[330, 562]						-----						Slide number 218  contains photo [330, 562] 
+[985, 816]						-----						Slide number 219  contains photo [985, 816] 
+[840, 262]						-----						Slide number 220  contains photo [840, 262] 
+870						-----						Slide number 221  contains photo 870 
+[402, 674]						-----						Slide number 222  contains photo [402, 674] 
+[580, 885]						-----						Slide number 223  contains photo [580, 885] 
+538						-----						Slide number 224  contains photo 538 
+275						-----						Slide number 225  contains photo 275 
+278						-----						Slide number 226  contains photo 278 
+[760, 464]						-----						Slide number 227  contains photo [760, 464] 
+349						-----						Slide number 228  contains photo 349 
+[838, 808]						-----						Slide number 229  contains photo [838, 808] 
+379						-----						Slide number 230  contains photo 379 
+109						-----						Slide number 231  contains photo 109 
+785						-----						Slide number 232  contains photo 785 
+282						-----						Slide number 233  contains photo 282 
+[310, 720]						-----						Slide number 234  contains photo [310, 720] 
+[882, 834]						-----						Slide number 235  contains photo [882, 834] 
+241						-----						Slide number 236  contains photo 241 
+281						-----						Slide number 237  contains photo 281 
+954						-----						Slide number 238  contains photo 954 
+811						-----						Slide number 239  contains photo 811 
+29						-----						Slide number 240  contains photo 29 
+671						-----						Slide number 241  contains photo 671 
+917						-----						Slide number 242  contains photo 917 
+[681, 522]						-----						Slide number 243  contains photo [681, 522] 
+14						-----						Slide number 244  contains photo 14 
+450						-----						Slide number 245  contains photo 450 
+[147, 751]						-----						Slide number 246  contains photo [147, 751] 
+235						-----						Slide number 247  contains photo 235 
+706						-----						Slide number 248  contains photo 706 
+778						-----						Slide number 249  contains photo 778 
+748						-----						Slide number 250  contains photo 748 
+209						-----						Slide number 251  contains photo 209 
+228						-----						Slide number 252  contains photo 228 
+[995, 207]						-----						Slide number 253  contains photo [995, 207] 
+[795, 600]						-----						Slide number 254  contains photo [795, 600] 
+370						-----						Slide number 255  contains photo 370 
+499						-----						Slide number 256  contains photo 499 
+[832, 796]						-----						Slide number 257  contains photo [832, 796] 
+189						-----						Slide number 258  contains photo 189 
+989						-----						Slide number 259  contains photo 989 
+361						-----						Slide number 260  contains photo 361 
+515						-----						Slide number 261  contains photo 515 
+886						-----						Slide number 262  contains photo 886 
+3						-----						Slide number 263  contains photo 3 
+[461, 589]						-----						Slide number 264  contains photo [461, 589] 
+451						-----						Slide number 265  contains photo 451 
+644						-----						Slide number 266  contains photo 644 
+229						-----						Slide number 267  contains photo 229 
+[93, 892]						-----						Slide number 268  contains photo [93, 892] 
+[726, 438]						-----						Slide number 269  contains photo [726, 438] 
+315						-----						Slide number 270  contains photo 315 
+[137, 973]						-----						Slide number 271  contains photo [137, 973] 
+905						-----						Slide number 272  contains photo 905 
+807						-----						Slide number 273  contains photo 807 
+[637, 353]						-----						Slide number 274  contains photo [637, 353] 
+[115, 426]						-----						Slide number 275  contains photo [115, 426] 
+[15, 12]						-----						Slide number 276  contains photo [15, 12] 
+[259, 579]						-----						Slide number 277  contains photo [259, 579] 
+502						-----						Slide number 278  contains photo 502 
+294						-----						Slide number 279  contains photo 294 
+201						-----						Slide number 280  contains photo 201 
+592						-----						Slide number 281  contains photo 592 
+531						-----						Slide number 282  contains photo 531 
+[503, 102]						-----						Slide number 283  contains photo [503, 102] 
+959						-----						Slide number 284  contains photo 959 
+642						-----						Slide number 285  contains photo 642 
+78						-----						Slide number 286  contains photo 78 
+[231, 974]						-----						Slide number 287  contains photo [231, 974] 
+561						-----						Slide number 288  contains photo 561 
+[947, 419]						-----						Slide number 289  contains photo [947, 419] 
+978						-----						Slide number 290  contains photo 978 
+420						-----						Slide number 291  contains photo 420 
+[711, 617]						-----						Slide number 292  contains photo [711, 617] 
+468						-----						Slide number 293  contains photo 468 
+[382, 675]						-----						Slide number 294  contains photo [382, 675] 
+456						-----						Slide number 295  contains photo 456 
+823						-----						Slide number 296  contains photo 823 
+969						-----						Slide number 297  contains photo 969 
+908						-----						Slide number 298  contains photo 908 
+640						-----						Slide number 299  contains photo 640 
+826						-----						Slide number 300  contains photo 826 
+194						-----						Slide number 301  contains photo 194 
+[825, 253]						-----						Slide number 302  contains photo [825, 253] 
+[335, 373]						-----						Slide number 303  contains photo [335, 373] 
+994						-----						Slide number 304  contains photo 994 
+351						-----						Slide number 305  contains photo 351 
+[363, 684]						-----						Slide number 306  contains photo [363, 684] 
+[368, 765]						-----						Slide number 307  contains photo [368, 765] 
+333						-----						Slide number 308  contains photo 333 
+[965, 146]						-----						Slide number 309  contains photo [965, 146] 
+457						-----						Slide number 310  contains photo 457 
+277						-----						Slide number 311  contains photo 277 
+488						-----						Slide number 312  contains photo 488 
+610						-----						Slide number 313  contains photo 610 
+[676, 455]						-----						Slide number 314  contains photo [676, 455] 
+514						-----						Slide number 315  contains photo 514 
+[343, 86]						-----						Slide number 316  contains photo [343, 86] 
+216						-----						Slide number 317  contains photo 216 
+889						-----						Slide number 318  contains photo 889 
+467						-----						Slide number 319  contains photo 467 
+[157, 318]						-----						Slide number 320  contains photo [157, 318] 
+197						-----						Slide number 321  contains photo 197 
+[474, 454]						-----						Slide number 322  contains photo [474, 454] 
+[191, 249]						-----						Slide number 323  contains photo [191, 249] 
+149						-----						Slide number 324  contains photo 149 
+704						-----						Slide number 325  contains photo 704 
+448						-----						Slide number 326  contains photo 448 
+77						-----						Slide number 327  contains photo 77 
+551						-----						Slide number 328  contains photo 551 
+939						-----						Slide number 329  contains photo 939 
+584						-----						Slide number 330  contains photo 584 
+992						-----						Slide number 331  contains photo 992 
+377						-----						Slide number 332  contains photo 377 
+[339, 97]						-----						Slide number 333  contains photo [339, 97] 
+[871, 72]						-----						Slide number 334  contains photo [871, 72] 
+219						-----						Slide number 335  contains photo 219 
+[801, 227]						-----						Slide number 336  contains photo [801, 227] 
+[660, 568]						-----						Slide number 337  contains photo [660, 568] 
+389						-----						Slide number 338  contains photo 389 
+[846, 53]						-----						Slide number 339  contains photo [846, 53] 
+576						-----						Slide number 340  contains photo 576 
+[828, 392]						-----						Slide number 341  contains photo [828, 392] 
+730						-----						Slide number 342  contains photo 730 
+251						-----						Slide number 343  contains photo 251 
+178						-----						Slide number 344  contains photo 178 
+[82, 657]						-----						Slide number 345  contains photo [82, 657] 
+[30, 449]						-----						Slide number 346  contains photo [30, 449] 
+193						-----						Slide number 347  contains photo 193 
+936						-----						Slide number 348  contains photo 936 
+913						-----						Slide number 349  contains photo 913 
+784						-----						Slide number 350  contains photo 784 
+[956, 664]						-----						Slide number 351  contains photo [956, 664] 
+111						-----						Slide number 352  contains photo 111 
+[636, 250]						-----						Slide number 353  contains photo [636, 250] 
+[564, 740]						-----						Slide number 354  contains photo [564, 740] 
+[833, 749]						-----						Slide number 355  contains photo [833, 749] 
+45						-----						Slide number 356  contains photo 45 
+727						-----						Slide number 357  contains photo 727 
+[927, 817]						-----						Slide number 358  contains photo [927, 817] 
+301						-----						Slide number 359  contains photo 301 
+663						-----						Slide number 360  contains photo 663 
+687						-----						Slide number 361  contains photo 687 
+540						-----						Slide number 362  contains photo 540 
+210						-----						Slide number 363  contains photo 210 
+25						-----						Slide number 364  contains photo 25 
+213						-----						Slide number 365  contains photo 213 
+[911, 544]						-----						Slide number 366  contains photo [911, 544] 
+645						-----						Slide number 367  contains photo 645 
+747						-----						Slide number 368  contains photo 747 
+406						-----						Slide number 369  contains photo 406 
+757						-----						Slide number 370  contains photo 757 
+164						-----						Slide number 371  contains photo 164 
+38						-----						Slide number 372  contains photo 38 
+442						-----						Slide number 373  contains photo 442 
+[547, 659]						-----						Slide number 374  contains photo [547, 659] 
+374						-----						Slide number 375  contains photo 374 
+799						-----						Slide number 376  contains photo 799 
+606						-----						Slide number 377  contains photo 606 
+[759, 758]						-----						Slide number 378  contains photo [759, 758] 
+[857, 573]						-----						Slide number 379  contains photo [857, 573] 
+433						-----						Slide number 380  contains photo 433 
+869						-----						Slide number 381  contains photo 869 
+556						-----						Slide number 382  contains photo 556 
+638						-----						Slide number 383  contains photo 638 
+100						-----						Slide number 384  contains photo 100 
+[586, 398]						-----						Slide number 385  contains photo [586, 398] 
+[599, 993]						-----						Slide number 386  contains photo [599, 993] 
+439						-----						Slide number 387  contains photo 439 
+[977, 171]						-----						Slide number 388  contains photo [977, 171] 
+719						-----						Slide number 389  contains photo 719 
+[452, 465]						-----						Slide number 390  contains photo [452, 465] 
+174						-----						Slide number 391  contains photo 174 
+842						-----						Slide number 392  contains photo 842 
+308						-----						Slide number 393  contains photo 308 
+423						-----						Slide number 394  contains photo 423 
+356						-----						Slide number 395  contains photo 356 
+[501, 572]						-----						Slide number 396  contains photo [501, 572] 
+658						-----						Slide number 397  contains photo 658 
+[876, 716]						-----						Slide number 398  contains photo [876, 716] 
+284						-----						Slide number 399  contains photo 284 
+962						-----						Slide number 400  contains photo 962 
+75						-----						Slide number 401  contains photo 75 
+650						-----						Slide number 402  contains photo 650 
+[264, 697]						-----						Slide number 403  contains photo [264, 697] 
+602						-----						Slide number 404  contains photo 602 
+588						-----						Slide number 405  contains photo 588 
+7						-----						Slide number 406  contains photo 7 
+626						-----						Slide number 407  contains photo 626 
+[578, 350]						-----						Slide number 408  contains photo [578, 350] 
+354						-----						Slide number 409  contains photo 354 
+614						-----						Slide number 410  contains photo 614 
+286						-----						Slide number 411  contains photo 286 
+342						-----						Slide number 412  contains photo 342 
+346						-----						Slide number 413  contains photo 346 
+831						-----						Slide number 414  contains photo 831 
+[744, 415]						-----						Slide number 415  contains photo [744, 415] 
+935						-----						Slide number 416  contains photo 935 
+348						-----						Slide number 417  contains photo 348 
+[336, 478]						-----						Slide number 418  contains photo [336, 478] 
+998						-----						Slide number 419  contains photo 998 
+[270, 238]						-----						Slide number 420  contains photo [270, 238] 
+313						-----						Slide number 421  contains photo 313 
+1						-----						Slide number 422  contains photo 1 
+50						-----						Slide number 423  contains photo 50 
+655						-----						Slide number 424  contains photo 655 
+323						-----						Slide number 425  contains photo 323 
+[280, 47]						-----						Slide number 426  contains photo [280, 47] 
+41						-----						Slide number 427  contains photo 41 
+951						-----						Slide number 428  contains photo 951 
+867						-----						Slide number 429  contains photo 867 
+802						-----						Slide number 430  contains photo 802 
+[99, 752]						-----						Slide number 431  contains photo [99, 752] 
+272						-----						Slide number 432  contains photo 272 
+652						-----						Slide number 433  contains photo 652 
+299						-----						Slide number 434  contains photo 299 
+63						-----						Slide number 435  contains photo 63 
+734						-----						Slide number 436  contains photo 734 
+520						-----						Slide number 437  contains photo 520 
+[631, 958]						-----						Slide number 438  contains photo [631, 958] 
+639						-----						Slide number 439  contains photo 639 
+[165, 518]						-----						Slide number 440  contains photo [165, 518] 
+477						-----						Slide number 441  contains photo 477 
+[371, 643]						-----						Slide number 442  contains photo [371, 643] 
+964						-----						Slide number 443  contains photo 964 
+[471, 619]						-----						Slide number 444  contains photo [471, 619] 
+73						-----						Slide number 445  contains photo 73 
+89						-----						Slide number 446  contains photo 89 
+519						-----						Slide number 447  contains photo 519 
+[271, 295]						-----						Slide number 448  contains photo [271, 295] 
+[930, 590]						-----						Slide number 449  contains photo [930, 590] 
+425						-----						Slide number 450  contains photo 425 
+[199, 291]						-----						Slide number 451  contains photo [199, 291] 
+755						-----						Slide number 452  contains photo 755 
+[735, 395]						-----						Slide number 453  contains photo [735, 395] 
+325						-----						Slide number 454  contains photo 325 
+565						-----						Slide number 455  contains photo 565 
+479						-----						Slide number 456  contains photo 479 
+924						-----						Slide number 457  contains photo 924 
+865						-----						Slide number 458  contains photo 865 
+596						-----						Slide number 459  contains photo 596 
+729						-----						Slide number 460  contains photo 729 
+836						-----						Slide number 461  contains photo 836 
+864						-----						Slide number 462  contains photo 864 
+265						-----						Slide number 463  contains photo 265 
+976						-----						Slide number 464  contains photo 976 
+[224, 543]						-----						Slide number 465  contains photo [224, 543] 
+429						-----						Slide number 466  contains photo 429 
+923						-----						Slide number 467  contains photo 923 
+154						-----						Slide number 468  contains photo 154 
+81						-----						Slide number 469  contains photo 81 
+16						-----						Slide number 470  contains photo 16 
+[162, 891]						-----						Slide number 471  contains photo [162, 891] 
+[996, 709]						-----						Slide number 472  contains photo [996, 709] 
+938						-----						Slide number 473  contains photo 938 
+[903, 571]						-----						Slide number 474  contains photo [903, 571] 
+[666, 84]						-----						Slide number 475  contains photo [666, 84] 
+292						-----						Slide number 476  contains photo 292 
+[246, 940]						-----						Slide number 477  contains photo [246, 940] 
+[685, 581]						-----						Slide number 478  contains photo [685, 581] 
+[884, 665]						-----						Slide number 479  contains photo [884, 665] 
+966						-----						Slide number 480  contains photo 966 
+[524, 689]						-----						Slide number 481  contains photo [524, 689] 
+17						-----						Slide number 482  contains photo 17 
+878						-----						Slide number 483  contains photo 878 
+435						-----						Slide number 484  contains photo 435 
+[345, 410]						-----						Slide number 485  contains photo [345, 410] 
+[753, 525]						-----						Slide number 486  contains photo [753, 525] 
+728						-----						Slide number 487  contains photo 728 
+986						-----						Slide number 488  contains photo 986 
+863						-----						Slide number 489  contains photo 863 
+971						-----						Slide number 490  contains photo 971 
+766						-----						Slide number 491  contains photo 766 
+[257, 76]						-----						Slide number 492  contains photo [257, 76] 
+854						-----						Slide number 493  contains photo 854 
+[699, 794]						-----						Slide number 494  contains photo [699, 794] 
+328						-----						Slide number 495  contains photo 328 
+110						-----						Slide number 496  contains photo 110 
+70						-----						Slide number 497  contains photo 70 
+[6, 185]						-----						Slide number 498  contains photo [6, 185] 
+768						-----						Slide number 499  contains photo 768 
+786						-----						Slide number 500  contains photo 786 
+[458, 32]						-----						Slide number 501  contains photo [458, 32] 
+35						-----						Slide number 502  contains photo 35 
+196						-----						Slide number 503  contains photo 196 
+820						-----						Slide number 504  contains photo 820 
+362						-----						Slide number 505  contains photo 362 
+[542, 634]						-----						Slide number 506  contains photo [542, 634] 
+907						-----						Slide number 507  contains photo 907 
+764						-----						Slide number 508  contains photo 764 
+722						-----						Slide number 509  contains photo 722 
+505						-----						Slide number 510  contains photo 505 
+682						-----						Slide number 511  contains photo 682 
+[104, 919]						-----						Slide number 512  contains photo [104, 919] 
+21						-----						Slide number 513  contains photo 21 
+483						-----						Slide number 514  contains photo 483 
+[236, 928]						-----						Slide number 515  contains photo [236, 928] 
+[443, 915]						-----						Slide number 516  contains photo [443, 915] 
+[731, 534]						-----						Slide number 517  contains photo [731, 534] 
+791						-----						Slide number 518  contains photo 791 
+[131, 683]						-----						Slide number 519  contains photo [131, 683] 
+217						-----						Slide number 520  contains photo 217 
+[980, 130]						-----						Slide number 521  contains photo [980, 130] 
+[651, 88]						-----						Slide number 522  contains photo [651, 88] 
+[901, 399]						-----						Slide number 523  contains photo [901, 399] 
+887						-----						Slide number 524  contains photo 887 
+462						-----						Slide number 525  contains photo 462 
+316						-----						Slide number 526  contains photo 316 
+860						-----						Slide number 527  contains photo 860 
+166						-----						Slide number 528  contains photo 166 
+212						-----						Slide number 529  contains photo 212 
+[408, 0]						-----						Slide number 530  contains photo [408, 0] 
+148						-----						Slide number 531  contains photo 148 
+[862, 563]						-----						Slide number 532  contains photo [862, 563] 
+922						-----						Slide number 533  contains photo 922 
+[218, 138]						-----						Slide number 534  contains photo [218, 138] 
+694						-----						Slide number 535  contains photo 694 
+738						-----						Slide number 536  contains photo 738 
+975						-----						Slide number 537  contains photo 975 
+804						-----						Slide number 538  contains photo 804 
+[428, 266]						-----						Slide number 539  contains photo [428, 266] 
+491						-----						Slide number 540  contains photo 491 
+530						-----						Slide number 541  contains photo 530 
+575						-----						Slide number 542  contains photo 575 
+[582, 868]						-----						Slide number 543  contains photo [582, 868] 
+[152, 116]						-----						Slide number 544  contains photo [152, 116] 
+874						-----						Slide number 545  contains photo 874 
+5						-----						Slide number 546  contains photo 5 
+963						-----						Slide number 547  contains photo 963 
+[10, 612]						-----						Slide number 548  contains photo [10, 612] 
+616						-----						Slide number 549  contains photo 616 
+23						-----						Slide number 550  contains photo 23 
+[394, 475]						-----						Slide number 551  contains photo [394, 475] 
+[160, 344]						-----						Slide number 552  contains photo [160, 344] 
+690						-----						Slide number 553  contains photo 690 
+970						-----						Slide number 554  contains photo 970 
+656						-----						Slide number 555  contains photo 656 
+641						-----						Slide number 556  contains photo 641 
+247						-----						Slide number 557  contains photo 247 
+516						-----						Slide number 558  contains photo 516 
+[847, 143]						-----						Slide number 559  contains photo [847, 143] 
+549						-----						Slide number 560  contains photo 549 
+[873, 269]						-----						Slide number 561  contains photo [873, 269] 
+541						-----						Slide number 562  contains photo 541 
+[180, 714]						-----						Slide number 563  contains photo [180, 714] 
+305						-----						Slide number 564  contains photo 305 
+[492, 61]						-----						Slide number 565  contains photo [492, 61] 
+532						-----						Slide number 566  contains photo 532 
+736						-----						Slide number 567  contains photo 736 
+[487, 824]						-----						Slide number 568  contains photo [487, 824] 
+497						-----						Slide number 569  contains photo 497 
+486						-----						Slide number 570  contains photo 486 
+839						-----						Slide number 571  contains photo 839 
+895						-----						Slide number 572  contains photo 895 
+230						-----						Slide number 573  contains photo 230 
+647						-----						Slide number 574  contains photo 647 
+679						-----						Slide number 575  contains photo 679 
+485						-----						Slide number 576  contains photo 485 
+480						-----						Slide number 577  contains photo 480 
+13						-----						Slide number 578  contains photo 13 
+[290, 384]						-----						Slide number 579  contains photo [290, 384] 
+761						-----						Slide number 580  contains photo 761 
+[521, 418]						-----						Slide number 581  contains photo [521, 418] 
+[653, 952]						-----						Slide number 582  contains photo [653, 952] 
+62						-----						Slide number 583  contains photo 62 
+678						-----						Slide number 584  contains photo 678 
+[941, 123]						-----						Slide number 585  contains photo [941, 123] 
+718						-----						Slide number 586  contains photo 718 
+723						-----						Slide number 587  contains photo 723 
+972						-----						Slide number 588  contains photo 972 
+400						-----						Slide number 589  contains photo 400 
+[36, 705]						-----						Slide number 590  contains photo [36, 705] 
+893						-----						Slide number 591  contains photo 893 
+822						-----						Slide number 592  contains photo 822 
+302						-----						Slide number 593  contains photo 302 
+[8, 65]						-----						Slide number 594  contains photo [8, 65] 
+[510, 495]						-----						Slide number 595  contains photo [510, 495] 
+[417, 447]						-----						Slide number 596  contains photo [417, 447] 
+627						-----						Slide number 597  contains photo 627 
+387						-----						Slide number 598  contains photo 387 
+[535, 26]						-----						Slide number 599  contains photo [535, 26] 
+[376, 237]						-----						Slide number 600  contains photo [376, 237] 
+211						-----						Slide number 601  contains photo 211 
+312						-----						Slide number 602  contains photo 312 
+931						-----						Slide number 603  contains photo 931 
+654						-----						Slide number 604  contains photo 654 
+830						-----						Slide number 605  contains photo 830 
+732						-----						Slide number 606  contains photo 732 
+112						-----						Slide number 607  contains photo 112 
+[69, 161]						-----						Slide number 608  contains photo [69, 161] 
+777						-----						Slide number 609  contains photo 777 
+[204, 957]						-----						Slide number 610  contains photo [204, 957] 
+446						-----						Slide number 611  contains photo 446 
+[866, 494]						-----						Slide number 612  contains photo [866, 494] 
+[173, 432]						-----						Slide number 613  contains photo [173, 432] 
+780						-----						Slide number 614  contains photo 780 
+[909, 285]						-----						Slide number 615  contains photo [909, 285] 
+[117, 297]						-----						Slide number 616  contains photo [117, 297] 
+132						-----						Slide number 617  contains photo 132 
+[837, 814]						-----						Slide number 618  contains photo [837, 814] 
+[633, 968]						-----						Slide number 619  contains photo [633, 968] 
+792						-----						Slide number 620  contains photo 792 
+393						-----						Slide number 621  contains photo 393 
+274						-----						Slide number 622  contains photo 274 
+[422, 967]						-----						Slide number 623  contains photo [422, 967] 
+[289, 700]						-----						Slide number 624  contains photo [289, 700] 
+[781, 55]						-----						Slide number 625  contains photo [781, 55] 
+[252, 256]						-----						Slide number 626  contains photo [252, 256] 
+[134, 409]						-----						Slide number 627  contains photo [134, 409] 
+[307, 603]						-----						Slide number 628  contains photo [307, 603] 
+815						-----						Slide number 629  contains photo 815 
+222						-----						Slide number 630  contains photo 222 
+[769, 818]						-----						Slide number 631  contains photo [769, 818] 
+506						-----						Slide number 632  contains photo 506 
+187						-----						Slide number 633  contains photo 187 
+942						-----						Slide number 634  contains photo 942 
+[622, 861]						-----						Slide number 635  contains photo [622, 861] 
+404						-----						Slide number 636  contains photo 404 
+859						-----						Slide number 637  contains photo 859 
+[750, 999]						-----						Slide number 638  contains photo [750, 999] 
+39						-----						Slide number 639  contains photo 39 
+11						-----						Slide number 640  contains photo 11 
+364						-----						Slide number 641  contains photo 364 
+877						-----						Slide number 642  contains photo 877 
+646						-----						Slide number 643  contains photo 646 
+300						-----						Slide number 644  contains photo 300 
+[37, 710]						-----						Slide number 645  contains photo [37, 710] 
+[695, 498]						-----						Slide number 646  contains photo [695, 498] 
+849						-----						Slide number 647  contains photo 849 
+790						-----						Slide number 648  contains photo 790 
+[673, 953]						-----						Slide number 649  contains photo [673, 953] 
+554						-----						Slide number 650  contains photo 554 
+22						-----						Slide number 651  contains photo 22 
+357						-----						Slide number 652  contains photo 357 
+843						-----						Slide number 653  contains photo 843 
+24						-----						Slide number 654  contains photo 24 
+436						-----						Slide number 655  contains photo 436 
+680						-----						Slide number 656  contains photo 680 
+[762, 126]						-----						Slide number 657  contains photo [762, 126] 
+[615, 770]						-----						Slide number 658  contains photo [615, 770] 
+[476, 124]						-----						Slide number 659  contains photo [476, 124] 
+702						-----						Slide number 660  contains photo 702 
+708						-----						Slide number 661  contains photo 708 
+[85, 322]						-----						Slide number 662  contains photo [85, 322] 
+[630, 94]						-----						Slide number 663  contains photo [630, 94] 
+[403, 858]						-----						Slide number 664  contains photo [403, 858] 
+127						-----						Slide number 665  contains photo 127 
+203						-----						Slide number 666  contains photo 203 
+378						-----						Slide number 667  contains photo 378 
+[306, 91]						-----						Slide number 668  contains photo [306, 91] 
+[912, 810]						-----						Slide number 669  contains photo [912, 810] 
+507						-----						Slide number 670  contains photo 507 
+[337, 783]						-----						Slide number 671  contains photo [337, 783] 
+314						-----						Slide number 672  contains photo 314 
+983						-----						Slide number 673  contains photo 983 
+[434, 698]						-----						Slide number 674  contains photo [434, 698] 
+574						-----						Slide number 675  contains photo 574 
+899						-----						Slide number 676  contains photo 899 
+819						-----						Slide number 677  contains photo 819 
+772						-----						Slide number 678  contains photo 772 
+319						-----						Slide number 679  contains photo 319 
+[984, 607]						-----						Slide number 680  contains photo [984, 607] 
+926						-----						Slide number 681  contains photo 926 
+48						-----						Slide number 682  contains photo 48 
+170						-----						Slide number 683  contains photo 170 
+473						-----						Slide number 684  contains photo 473 
+[407, 206]						-----						Slide number 685  contains photo [407, 206] 
+613						-----						Slide number 686  contains photo 613 
+593						-----						Slide number 687  contains photo 593 
+775						-----						Slide number 688  contains photo 775 
+[51, 215]						-----						Slide number 689  contains photo [51, 215] 
+875						-----						Slide number 690  contains photo 875 
+268						-----						Slide number 691  contains photo 268 
+139						-----						Slide number 692  contains photo 139 
+298						-----						Slide number 693  contains photo 298 
+329						-----						Slide number 694  contains photo 329 
+[226, 696]						-----						Slide number 695  contains photo [226, 696] 
+557						-----						Slide number 696  contains photo 557 
+239						-----						Slide number 697  contains photo 239 
+[128, 979]						-----						Slide number 698  contains photo [128, 979] 
+623						-----						Slide number 699  contains photo 623 
+921						-----						Slide number 700  contains photo 921 
+[114, 169]						-----						Slide number 701  contains photo [114, 169] 
+[52, 916]						-----						Slide number 702  contains photo [52, 916] 
+360						-----						Slide number 703  contains photo 360 
+[214, 618]						-----						Slide number 704  contains photo [214, 618] 
+332						-----						Slide number 705  contains photo 332 
+381						-----						Slide number 706  contains photo 381 
+176						-----						Slide number 707  contains photo 176 
+[553, 609]						-----						Slide number 708  contains photo [553, 609] 
+60						-----						Slide number 709  contains photo 60 
+533						-----						Slide number 710  contains photo 533 
+367						-----						Slide number 711  contains photo 367 
+255						-----						Slide number 712  contains photo 255 
+[512, 715]						-----						Slide number 713  contains photo [512, 715] 
+739						-----						Slide number 714  contains photo 739 
+[782, 920]						-----						Slide number 715  contains photo [782, 920] 
+159						-----						Slide number 716  contains photo 159 
+604						-----						Slide number 717  contains photo 604 
+[513, 934]						-----						Slide number 718  contains photo [513, 934] 
+756						-----						Slide number 719  contains photo 756 
+[583, 904]						-----						Slide number 720  contains photo [583, 904] 
+276						-----						Slide number 721  contains photo 276 
+[601, 929]						-----						Slide number 722  contains photo [601, 929] 
+[661, 662]						-----						Slide number 723  contains photo [661, 662] 
+787						-----						Slide number 724  contains photo 787 
+416						-----						Slide number 725  contains photo 416 
+489						-----						Slide number 726  contains photo 489 
+539						-----						Slide number 727  contains photo 539 
+688						-----						Slide number 728  contains photo 688 
+120						-----						Slide number 729  contains photo 120 
+880						-----						Slide number 730  contains photo 880 
+776						-----						Slide number 731  contains photo 776 
+[58, 71]						-----						Slide number 732  contains photo [58, 71] 
+9						-----						Slide number 733  contains photo 9 
+[898, 856]						-----						Slide number 734  contains photo [898, 856] 
+827						-----						Slide number 735  contains photo 827 
+[175, 805]						-----						Slide number 736  contains photo [175, 805] 
+[902, 321]						-----						Slide number 737  contains photo [902, 321] 
+745						-----						Slide number 738  contains photo 745 
+192						-----						Slide number 739  contains photo 192 
+[273, 198]						-----						Slide number 740  contains photo [273, 198] 
+896						-----						Slide number 741  contains photo 896 
+629						-----						Slide number 742  contains photo 629 
+287						-----						Slide number 743  contains photo 287 
+43						-----						Slide number 744  contains photo 43 
+[946, 242]						-----						Slide number 745  contains photo [946, 242] 
+987						-----						Slide number 746  contains photo 987 
+693						-----						Slide number 747  contains photo 693 
+[324, 566]						-----						Slide number 748  contains photo [324, 566] 
+[737, 797]						-----						Slide number 749  contains photo [737, 797] 
+Score:						186
